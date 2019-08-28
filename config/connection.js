@@ -1,14 +1,4 @@
-/*
 
-Host	ysp9sse09kl0tzxj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	
-Username	hiwhxvpafpy5n2r2	
-Password	py7wwy5y0bacxwz5	
-Port	3306	
-Database	hdzizzkfs9ubuaj0
-
-
-
-*/
 
 // Set up MySQL connection.
 var mysql = require("mysql");
